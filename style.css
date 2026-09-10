@@ -309,6 +309,7 @@ body {
 .delete {
     width: 31px;
     height: 32px;
+    margin-left: 10px;
 
     border: 1px solid #f0a2a2;
     border-radius: 5px;
